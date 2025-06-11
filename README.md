@@ -16,7 +16,7 @@
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Año |
+| Proyecto | Año |
 |---------|-------------|------|
 | 🧠 **Asistente de Somnolencia Minera** | 2025 |
 | 🏁 **Robot Velocista Arduino** | 2024 | 2025 |
