@@ -16,11 +16,13 @@
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Año | Año |
-|---------|-------------|------|
+
+| Proyecto | Año(s) |
+|---------|--------|
 | 🧠 **Asistente de Somnolencia Minera** | 2025 |
-| 🏁 **Robot Velocista Arduino** | 2024 | 2025 |
-| 🔵 **Robot BB-8 Interactivo** | 2025 |
+| 🏁 **Robot Velocista Arduino**         | 2024–2025 |
+| 🔵 **Robot BB-8 Interactivo**          | 2025 |
+
 
 ---
 
